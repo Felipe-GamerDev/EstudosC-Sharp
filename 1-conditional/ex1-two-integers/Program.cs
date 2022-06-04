@@ -1,5 +1,5 @@
 ﻿/*
-Objetivo: Escrever um programa C# Sharp para aceitar dois inteiros e verificar se eles são iguais ou não.
+Objetivo: Escrever um programa C# para aceitar dois inteiros e verificar se eles são iguais ou não.
 Output: 5 e 5 são iguais!
 */
 
