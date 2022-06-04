@@ -1,0 +1,15 @@
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\bin\Debug\net6.0\ex1-two-integers.exe
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\bin\Debug\net6.0\ex1-two-integers.deps.json
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\bin\Debug\net6.0\ex1-two-integers.runtimeconfig.json
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\bin\Debug\net6.0\ex1-two-integers.dll
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\bin\Debug\net6.0\ex1-two-integers.pdb
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\obj\Debug\net6.0\ex1-two-integers.csproj.AssemblyReference.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\obj\Debug\net6.0\ex1-two-integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\obj\Debug\net6.0\ex1-two-integers.AssemblyInfoInputs.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\obj\Debug\net6.0\ex1-two-integers.AssemblyInfo.cs
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\obj\Debug\net6.0\ex1-two-integers.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\obj\Debug\net6.0\ex1-two-integers.dll
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\obj\Debug\net6.0\refint\ex1-two-integers.dll
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\obj\Debug\net6.0\ex1-two-integers.pdb
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\obj\Debug\net6.0\ex1-two-integers.genruntimeconfig.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex1-two-integers\obj\Debug\net6.0\ref\ex1-two-integers.dll
