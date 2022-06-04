@@ -1,0 +1,15 @@
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\bin\Debug\net6.0\0-introdução.exe
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\bin\Debug\net6.0\0-introdução.deps.json
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\bin\Debug\net6.0\0-introdução.runtimeconfig.json
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\bin\Debug\net6.0\0-introdução.dll
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\bin\Debug\net6.0\0-introdução.pdb
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\obj\Debug\net6.0\0-introdução.csproj.AssemblyReference.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\obj\Debug\net6.0\0-introdução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\obj\Debug\net6.0\0-introdução.AssemblyInfoInputs.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\obj\Debug\net6.0\0-introdução.AssemblyInfo.cs
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\obj\Debug\net6.0\0-introdução.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\obj\Debug\net6.0\0-introdução.dll
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\obj\Debug\net6.0\refint\0-introdução.dll
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\obj\Debug\net6.0\0-introdução.pdb
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\obj\Debug\net6.0\0-introdução.genruntimeconfig.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\0-introdução\obj\Debug\net6.0\ref\0-introdução.dll
