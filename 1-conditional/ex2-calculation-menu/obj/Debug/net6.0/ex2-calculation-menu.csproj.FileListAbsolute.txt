@@ -1,0 +1,15 @@
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\bin\Debug\net6.0\ex2-calculation-menu.exe
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\bin\Debug\net6.0\ex2-calculation-menu.deps.json
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\bin\Debug\net6.0\ex2-calculation-menu.runtimeconfig.json
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\bin\Debug\net6.0\ex2-calculation-menu.dll
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\bin\Debug\net6.0\ex2-calculation-menu.pdb
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\obj\Debug\net6.0\ex2-calculation-menu.csproj.AssemblyReference.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\obj\Debug\net6.0\ex2-calculation-menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\obj\Debug\net6.0\ex2-calculation-menu.AssemblyInfoInputs.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\obj\Debug\net6.0\ex2-calculation-menu.AssemblyInfo.cs
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\obj\Debug\net6.0\ex2-calculation-menu.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\obj\Debug\net6.0\ex2-calculation-menu.dll
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\obj\Debug\net6.0\refint\ex2-calculation-menu.dll
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\obj\Debug\net6.0\ex2-calculation-menu.pdb
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\obj\Debug\net6.0\ex2-calculation-menu.genruntimeconfig.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\1-conditional\ex2-calculation-menu\obj\Debug\net6.0\ref\ex2-calculation-menu.dll
