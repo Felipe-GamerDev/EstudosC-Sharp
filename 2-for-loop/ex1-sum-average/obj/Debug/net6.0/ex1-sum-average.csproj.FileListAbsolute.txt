@@ -1,0 +1,15 @@
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\bin\Debug\net6.0\ex1-sum-average.exe
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\bin\Debug\net6.0\ex1-sum-average.deps.json
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\bin\Debug\net6.0\ex1-sum-average.runtimeconfig.json
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\bin\Debug\net6.0\ex1-sum-average.dll
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\bin\Debug\net6.0\ex1-sum-average.pdb
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\obj\Debug\net6.0\ex1-sum-average.csproj.AssemblyReference.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\obj\Debug\net6.0\ex1-sum-average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\obj\Debug\net6.0\ex1-sum-average.AssemblyInfoInputs.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\obj\Debug\net6.0\ex1-sum-average.AssemblyInfo.cs
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\obj\Debug\net6.0\ex1-sum-average.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\obj\Debug\net6.0\ex1-sum-average.dll
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\obj\Debug\net6.0\refint\ex1-sum-average.dll
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\obj\Debug\net6.0\ex1-sum-average.pdb
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\obj\Debug\net6.0\ex1-sum-average.genruntimeconfig.cache
+C:\Users\Felipe Santos\Documents\MeusProjetos\EstudosC-Sharp\2-for-loop\ex1-sum-average\obj\Debug\net6.0\ref\ex1-sum-average.dll
