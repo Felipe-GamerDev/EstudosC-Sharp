@@ -1,0 +1,15 @@
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\bin\Debug\net6.0\Ex2.exe
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\bin\Debug\net6.0\Ex2.deps.json
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\bin\Debug\net6.0\Ex2.runtimeconfig.json
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\bin\Debug\net6.0\Ex2.dll
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\bin\Debug\net6.0\Ex2.pdb
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\obj\Debug\net6.0\Ex2.csproj.AssemblyReference.cache
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\obj\Debug\net6.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfoInputs.cache
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfo.cs
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\obj\Debug\net6.0\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\obj\Debug\net6.0\Ex2.dll
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\obj\Debug\net6.0\refint\Ex2.dll
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\obj\Debug\net6.0\Ex2.pdb
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\obj\Debug\net6.0\Ex2.genruntimeconfig.cache
+C:\Users\Felipe Santos\Desktop\Estudo C-Sharp\Aulas\Ex2\obj\Debug\net6.0\ref\Ex2.dll
